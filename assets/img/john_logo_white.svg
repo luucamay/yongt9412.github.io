@@ -1,0 +1,13 @@
+<svg width="950" height="495" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+    <g>
+        <title>Layer 1</title>
+        <rect id="svg_1" height="161" width="13" stroke-miterlimit="10" stroke-width="25" stroke="#ffffff" fill="#ffffff" y="181.22222" x="551.94445"/>
+        <rect id="svg_2" height="161" width="13" stroke-miterlimit="10" stroke-width="25" stroke="#ffffff" fill="#ffffff" y="181.22222" x="706.94445"/>
+        <rect id="svg_3" height="13" width="142" stroke-miterlimit="10" stroke-width="25" stroke="#ffffff" fill="#ffffff" y="255.22221" x="564.94445"/>
+        <rect id="svg_4" height="161" width="13" stroke-miterlimit="10" stroke-width="25" stroke="#ffffff" fill="#ffffff" y="181.22222" x="762.44445"/>
+        <rect id="svg_5" height="161" width="13" stroke-miterlimit="10" stroke-width="25" stroke="#ffffff" fill="#ffffff" y="181.22222" x="916.44445"/>
+        <polygon id="svg_6" points="771.348388671875,202.161994099617 779.0272827148438,191.82010567188263 914.773681640625,322.304572224617 907.102294921875,331.6242438554764 " stroke-miterlimit="10" stroke-width="25" fill="#ffffff" stroke="#ffffff"/>
+        <path fill="black" id="svg_7" d="m172.94445,53.32533l40.833,64.167l48,70.667c0,0 42.666,65.666 49.333,90.999s15.667,61.998 -5,106.331s-55,65.333 -92.667,78s-95.333,8.665 -136,-25.001s-46.333,-61 -49.667,-69.333s-6.667,-36 -6.667,-36l14,-0.333c0,0 2.333,20.334 7,34s20.333,38 28,45.333s33.334,31.333 60.667,37s80.835,10.837 117.835,-18.33s53.5,-55.84 57.667,-94.674s-19.834,-82.168 -27.334,-96.334s-51,-77.5 -64,-96.667s-28.167,-47.5 -42.167,-64.5l0.167,-25.325z" stroke-miterlimit="10" stroke-width="25" stroke="#ffffff"/>
+        <circle id="svg_8" r="73.667" cy="261.72222" cx="429.77745" stroke-miterlimit="10" stroke-width="40" stroke="#ffffff" fill="none"/>
+    </g>
+</svg>
