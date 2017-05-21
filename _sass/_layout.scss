@@ -106,6 +106,7 @@
 // navbar
 .navbar {
   float: right;
+  font-size: 16px;
 
   @include media-query($on-phone) {
     float: none;
@@ -183,13 +184,13 @@
   }
 
   .post-meta {
-    font-size: 14px;
+    font-size: 16px;
     margin-top: 0;
     font-weight: 300;
     font-family: $font-family-serif;
     margin-bottom: 1rem;
     font-style: italic;
-    color: #9a9a9a;
+    color: #8b8b8b;
   }
 
   img {

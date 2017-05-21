@@ -26,14 +26,14 @@
     </div>
 
     {% if page.slug == 'home' %}
-      <h2 class="txt-center">
+      <h1 class="txt-center">
         Hi, I am <strong>{{ site.title }}</strong>!<br>
         <p class="txt-small">Web development and UX/UI design.</p>
-      </h2>
+      </h1>
     {% else %}
-      <h2 class="txt-center">
-        {{ page.title }}
-      </h2>
+      <h1 class="txt-center">
+        <strong>{{ page.title }}</strong>
+      </h1>
     {% endif %}
 
   </div>
