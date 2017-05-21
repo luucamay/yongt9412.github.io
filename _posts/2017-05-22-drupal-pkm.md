@@ -2,7 +2,6 @@
 layout: post
 title: "Introducing: Drupal PKM"
 date: 2017-05-22 03:00:08
-categories: drupal pkm
 comments: false
 ---
 Drupal is an open source CMS with great standard features, great flexibility, amazing performance and modularity for improving the core experience.

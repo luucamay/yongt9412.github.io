@@ -48,7 +48,7 @@
   margin-bottom: 30px;
 
   .overlay {
-    background: rgba(#000, .75);
+    background: rgba(#000, .50);
     z-index: 1;
     position: absolute;
     width: 100%;
@@ -74,7 +74,9 @@
 .home .header {
   padding: 260px 0 200px;
 }
-
+.header {
+  padding: 260px 0 200px;
+}
 //
 // site title
 .title {
