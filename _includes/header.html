@@ -30,6 +30,10 @@
         Hi, I am <strong>{{ site.title }}</strong>!<br>
         <p class="txt-small">Web development and UX/UI design.</p>
       </h2>
+    {% else %}
+      <h2 class="txt-center">
+        {{ page.title }}
+      </h2>
     {% endif %}
 
   </div>
