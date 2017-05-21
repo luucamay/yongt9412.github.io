@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Introducing: Drupal PKM
-date:   2017-05-22 03:00:08
+title: "Introducing: Drupal PKM"
+date: 2017-08-07 03:00:08
 categories: drupal pkm
 comments: false
 ---
 Drupal is an open source CMS with great standard features, great flexibility, amazing performance and modularity for improving the core experience.
 
-Drupal PKM is a project that started along with [MD Systems](www.md-systems.ch), a Switzerland based company that works with Drupal 8 and it is one of the top contributors for Drupal. We had long conversations for defining the goal of this project and we defined it as being a Personal Knowledge Management platform based on Drupal 8.
+Drupal PKM is a project that started along with [MD Systems](https://www.md-systems.ch), a Switzerland based company that works with Drupal 8 and it is one of the top contributors for Drupal. We had long conversations for defining the goal of this project and we defined it as being a Personal Knowledge Management platform based on Drupal 8.
 
 ### What do we want?
 

@@ -18,12 +18,11 @@ permalink : pretty
 
 # Author info
 author:
-  name     : 'Fernando Moreira'
-  email    : hi@nandomoreira.me
+  name     : 'John Choque'
   url      : http://yongt9412.github.io
   facebook : http://facebook.com/yongt9412
   twitter  : http://twitter.com/yongt9412
 
-github: https://github.com/nandomoreirame/zetsu
-disqus_shortname: "fernandomoreira"
-google_analytics: UA-52446115-1
+#github: https://github.com/nandomoreirame/zetsu
+#disqus_shortname: "fernandomoreira"
+#google_analytics: UA-52446115-1
