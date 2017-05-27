@@ -2,7 +2,7 @@
 title: John Choque
 description: 'This is personal blog.'
 baseurl: ""
-url: "http://yongt9412.github.io"
+url: "http://yongt9412.com"
 paginate: 5
 # comments: true
 paginate_path: "/page/:num"
