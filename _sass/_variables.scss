@@ -19,13 +19,13 @@ $font-weight-base  : 400 !default;
 $font-weight-bold  : 700 !default;
 
 $white-color      : #fff !default;
-$text-color       : #333C55 !default;
-$brand-color      : #39c0ba !default;
-$background-color : #f8f8f8 !default;
+$text-color       : #686868 !default;
+$brand-color      : #26A69A !default;
+$background-color : #ededed !default;
 $primary-color    : $brand-color !default;
 $bg-color         : #ffffff !default;
 
-$link-color: #5679a3 !default;
+$link-color: #26A69A !default;
 $link-hover-color: lighten($link-color, 5%) !default;
 
 $gray-color:       #828282 !default;
