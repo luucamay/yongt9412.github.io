@@ -1,6 +1,6 @@
 # Site settings
 title: John Choque
-description: 'This is personal blog.'
+description: 'Web development and UX/UI design.'
 baseurl: ""
 url: "https://yongt9412.com"
 paginate: 5

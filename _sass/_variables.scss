@@ -26,7 +26,7 @@ $primary-color    : $brand-color !default;
 $bg-color         : #ffffff !default;
 
 $link-color: #26A69A !default;
-$link-hover-color: lighten($link-color, 5%) !default;
+$link-hover-color: darken($link-color, 25%) !default;
 
 $gray-color:       #828282 !default;
 $gray-color-light: lighten($gray-color, 40%) !default;
