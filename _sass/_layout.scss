@@ -37,7 +37,7 @@
 //
 // Site header
 .header {
-  background: #292929 url(../images/cover.jpg) no-repeat 0px;
+  background: #292929 url(../assets/img/cover.jpg) no-repeat 0px;
   @include background-size(cover);
   border-bottom: 1px solid $gray-color-light;
   border-top: 3px solid $primary-color;
