@@ -24,11 +24,11 @@ $primary-color    : $brand-color !default;
 $bg-color         : #ffffff !default;
 
 $link-color: #21ce99 !default;
-$link-hover-color: darken($link-color, 5%) !default;
+$link-hover-color: darken($link-color, 10%) !default;
 
 $gray-color:       #828282 !default;
 $gray-color-light: lighten($gray-color, 40%) !default;
-$gray-color-dark:  darken($gray-color, 25%) !default;
+$gray-color-dark:  darken($gray-color, 10%) !default;
 
 // Width of the content area
 $content-width:    960px !default;

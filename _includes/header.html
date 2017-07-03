@@ -1,30 +1,20 @@
 <header class="header">
+  <div class="navbar">
+    <h1 class="title">
+      <a href="{{ site.baseurl }}/"><img class="header-logo" src="/assets/img/john_logo_white.svg"></a>
+    </h1>
+    <nav class="navbar">
+      <ul class="nav">
+        {% for page in site.pages %}
+        {% if page.title and page.title != 'Home' %}
+        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+        {% endif %}
+        {% endfor %}
+      </ul>
+    </nav>
+  </div>
 
   <div class="overlay">
-
-    <div class="container">
-
-      <h1 class="title">
-        <a href="{{ site.baseurl }}/"><img class="header-logo" src="/assets/img/john_logo_white.svg"></a><small>Choque</small>
-      </h1>
-
-      <nav class="navbar">
-        <a href="#" class="menu-icon">
-          <span></span>
-          <span></span>
-          <span></span>
-        </a>
-
-        <ul class="nav">
-          {% for page in site.pages %}
-            {% if page.title and page.title != 'Home' %}
-            <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
-            {% endif %}
-          {% endfor %}
-        </ul>
-      </nav>
-    </div>
-
     {% if page.slug == 'home' %}
       <h1 class="txt-center">
         Hi, I am <strong>{{ site.title }}</strong>!<br>
@@ -35,7 +25,6 @@
         <strong>{{ page.title }}</strong>
       </h1>
     {% endif %}
-
   </div>
 
 </header>
