@@ -45,10 +45,9 @@
     -o-background-size: cover;
     background-size: cover;
     border-bottom: 1px solid #e8e8e8;
-    border-top: 3px solid #21ce99;
     min-height: 60px;
     position: relative;
-    padding: 200px;
+    padding: 200px 0 200px;
     z-index: 1;
   }
 
@@ -75,6 +74,7 @@
   margin: 0;
   color: darken($white-color, 10%);
   font-family: $font-family-base;
+  padding-left: 20px;
 
   @include media-query($on-phone) {
     float: none;
@@ -94,7 +94,6 @@
 // navbar
 .navbar {
   position: relative;
-  background-color: red;
   z-index: 100;
   display: flex;
   justify-content: space-between;
@@ -104,6 +103,9 @@
   }
 }
 
+.menu {
+  padding-right: 20px;
+}
 //
 // ul nav
 .nav {
@@ -133,14 +135,14 @@
     padding: 0;
     display: inline-block;
     text-decoration: none;
-    color: darken($white-color, 25%);
+    color: $link-color;
     @include transition(color .2s linear);
   }
 
   li.active a,
   li:hover a,
   li:focus a {
-    color: lighten($primary-color, 10%);
+    color: darken($primary-color, 10%);
     text-decoration: none;
   }
 }
