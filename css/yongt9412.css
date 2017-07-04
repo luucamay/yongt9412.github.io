@@ -32,11 +32,12 @@
 
 /* Each button */
 .share-button {
-    margin: 0px;
-    margin-bottom: 10px;
-    margin-right: 3px;
-    border: 1px solid #D3D6D2;
-    padding: 5px 10px 5px 10px;
+    border: 1px #21ce99 solid;
+    padding: 10px;
+    border-radius: 5px;
+    width: 2em;
+    height: 2em;
+    text-align: center;
 }
 .share-button:hover {
     opacity: 1;
@@ -44,25 +45,17 @@
 }
 
 /* Facebook button */
-.fa-facebook-official {
-    color: #3b5998;
-}
-.fa-facebook-official:hover {
-    background-color: #3b5998;
+.fa-facebook:hover {
+    background-color: #3A5897;
 }
 
 /* Twitter button */
-.fa-twitter {
-    color: #55acee;
-}
+
 .fa-twitter:hover {
     background-color: #55acee;
 }
 
 /* Google-PLus button */
-.fa-google-plus {
-    color: #dd4b39;
-}
 .fa-google-plus:hover {
     background-color: #dd4b39;
 }
