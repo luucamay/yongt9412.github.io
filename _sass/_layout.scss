@@ -257,16 +257,17 @@
   }
 
   i {
+    border: 1px solid;
     font-size: 20px;
-    width: 35px;
-    height: 35px;
-    padding: 7px;
-    background: #DADADA;
-    text-align: center;
     color: #494949;
     transition: all .2s ease-in;
     -webkit-transition: all .2s ease-in;
     -moz-transition: all .2s ease-in;
+    padding: 10px;
+    border-radius: 50%;
+    width: 2em;
+    height: 2em;
+    text-align: center;
   }
 
   a:hover i.fa-facebook {
