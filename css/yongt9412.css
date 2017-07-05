@@ -17,6 +17,11 @@
     margin: 0 auto;
 }
 
+.full_width {
+    width: 100%;
+    height: auto;
+}
+
 /* Share Bar */
 #share-bar {
     font-size: 20px;
