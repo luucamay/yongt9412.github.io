@@ -4,7 +4,7 @@ title: "OpenCalais and Drupal 8"
 date: 2017-07-17 20:00:00
 comments: true
 ---
-![post_cover]({{site.baseurl}}/assets/post_img/oc_d8_banner.jpg){: .full width .post_img}
+![post_cover]({{site.baseurl}}/assets/post_img/oc_d8_banner.jpeg){: .full width .post_img}
 OpenCalais is a web service that analyses text for extracting “SocialTags”. As the OpenCalais documentation says: “SocialTags” are associations of the text with Wikipedia categories or articles. SocialTags attempt to emulate how a person would tag a specific piece of content”. 
 The service can also extract “Entities” such as people, companies, organizations and others.
 
